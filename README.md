@@ -12,3 +12,4 @@ This is a place to put all the open methods and materials in the paper. You can 
 * Estimation statistics: http://www.estimationstats.com/#/
 * CellProfiler: https://cellprofiler.org/
 * Fiji is a powerful ImageJ: https://fiji.sc/
+* Anaconda, good packeage management platform in Windows desktop https://anaconda.org/
