@@ -3,7 +3,7 @@ This is a place to put all the open methods and materials in the paper. You can 
 
 
 * GIMP (GNU Image Manipulation Program, V2.10) for figures layout (www.gimp.org). 
-* Inkscape (V0.92) to draw diagrams (inkscape.org). 
+* Inkscape (V0.92) to draw diagrams (inkscape.org). Related to this, recommend https://thenounproject.com/, free icons and photoes.
 * RStudio desktop open source edition for a few visualizations (www.r-project.org, www.rstudio.com). 
 * LibreOffice (V6.X) to store preliminary information (www.libreoffice.org). 
 * Zotero (V5.0)for literature management (www.zotero.org). 
