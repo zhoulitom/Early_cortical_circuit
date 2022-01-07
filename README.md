@@ -10,6 +10,7 @@ This is a place to put all the open methods and materials in the paper. You can 
 * Micro-Manager is a multiplatform open source software for imaging (https://micro-manager.org/). 
 * Python for data visualization. calcium imaging analysis pipeline: CaImAn (https://github.com/flatironinstitute/CaImAn). 
 * Estimation statistics: http://www.estimationstats.com/#/
+* Statsics Kingdom: https://www.statskingdom.com/index.html
 * CellProfiler: https://cellprofiler.org/
 * Fiji is a powerful ImageJ: https://fiji.sc/
 * Anaconda, good packeage management platform in Windows desktop https://anaconda.org/
